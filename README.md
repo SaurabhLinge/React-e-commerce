@@ -64,7 +64,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at : [](https://react-e-commerce-orcin.vercel.app/)
+Check out the live demo of the application at : [https://react-e-commerce-orcin.vercel.app/](https://react-e-commerce-orcin.vercel.app/)
 
 
 ## License
